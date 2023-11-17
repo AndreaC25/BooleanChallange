@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg);
+    background-size: 100% 120%;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;    
+}
+
+.blackbox{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 900px;
+    height: 600px;
+
+}
+
+.logo{
+    width: 23vh;
+    height: 10vh;
+    margin-left: 40%;
+  
+  
+  }
+
+
+.green{
+    background-color: green;
+    height: 9%;
+    text-align: center;
+}
+
+.arancio{
+    border: 0px;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.verde{
+    border: 0px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.pink{
+    border: 0px;
+    border-radius: 10px;
+    background-color: red;
+}
